@@ -1,0 +1,36 @@
+body {
+    background-image: url('wallpaper.jpg');
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+.countdown-text-div {
+    text-align: center;
+    color: white;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15%;
+}
+
+hr {
+    border: none;
+    background-color: white;
+    height: 1px;
+}
+
+.static-text {
+    font-family: 'Rowdies', cursive;
+    letter-spacing: 5px;
+    font-size: 45px;
+}
+
+.countdown-text {
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    color: yellow;
+
+}
